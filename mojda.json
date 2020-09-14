@@ -1,0 +1,129 @@
+[{
+  "_id": 1,
+  "well": "jhanji",
+  "type": "expl",
+  "depth": 4500,
+  "caustic": 4.5,
+  "cmc": 3.2,
+  "lignite": 8.9,
+  "klignite": 11.8,
+  "kcl": 12,
+  "koh": 2.8,
+  "pac": 1.5,
+  "xcpoly": 0.8,
+  "lubri": 0.7,
+  "rheology": {
+    "pv": 14,
+    "yp": 12,
+    "av": 30,
+    "mw": 1.65
+  },
+  "barytes": 2500,
+  "bentonite": 15
+},{
+  "_id": 2,
+  "well": "praa",
+  "type": "expl",
+  "depth": 3500,
+  "caustic": 3.5,
+  "cmc": 2.3,
+  "lignite": 9.8,
+  "klignite": 8.8,
+  "kcl": 10.6,
+  "koh": 1.4,
+  "pac": 1.2,
+  "xcpoly": 1.6,
+  "lubri": 0.7,
+  "rheology": {
+    "pv": 12,
+    "yp": 10,
+    "av": 32,
+    "mw": 1.65
+  },
+  "barytes": 2000,
+  "bentonite": 10.5
+},{
+  "_id": 3,
+  "well": "rcpm",
+  "type": "expl",
+  "depth": 4500,
+  "caustic": 7.4,
+  "cmc": 5.8,
+  "lignite": 29.5,
+  "klignite": 15,
+  "kcl": 15.5,
+  "koh": 11,
+  "pac": 2,
+  "xcpoly": 1,
+  "lubri": 0.4,
+  "rheology": {
+    "pv": 25,
+    "yp": 15,
+    "av": 40,
+    "mw": 1.65
+  },
+  "barytes": 2450,
+  "bentonite": 35.2
+},{
+  "_id": 4,
+  "well": "mdda",
+  "type": "expl",
+  "depth": 4700,
+  "caustic": 5.4,
+  "cmc": 4.8,
+  "lignite": 21.5,
+  "klignite": 11,
+  "kcl": 12.5,
+  "koh": 8,
+  "pac": 1.8,
+  "xcpoly": 1.5,
+  "lubri": 0.8,
+  "rheology": {
+    "pv": 18,
+    "yp": 10,
+    "av": 28,
+    "mw": 1.65
+  },
+  "barytes": 3450,
+  "bentonite": 25.2
+},{
+  "_id": 5,
+  "well": "mdpr",
+  "type": "expl",
+  "depth": 5500,
+  "caustic": 5.4,
+  "cmc": 4.8,
+  "lignite": 24.5,
+  "klignite": 20,
+  "kcl": 18.5,
+  "koh": 15,
+  "pac": 3,
+  "xcpoly": 1.2,
+  "lubri": 0.6,
+  "rheology": {
+    "pv": 12,
+    "yp": 10,
+    "av": 22,
+    "mw": 1.65
+  },
+  "barytes": 2500,
+  "bentonite": 30
+},{
+  "_id": 6,
+  "well": "rd24",
+  "type": "dev",
+  "depth": 2230,
+  "xcpoly": 1.2,
+  "cmc": 3.5,
+  "caustic": 1.95,
+  "lignite": 9.2,
+  "lubri": 0.6,
+  "rheology": {
+    "pv": 15,
+    "yp": 10,
+    "av": 25,
+    "mw": 1.65
+  },
+  "barytes": 750,
+  "bentonite": 12.8
+}]
